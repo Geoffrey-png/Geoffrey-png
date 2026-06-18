@@ -8,13 +8,12 @@
   />
 </a>
 
-<!-- ② 头像 -->
+<!-- ② 头像：GitHub 自动圆角，尺寸用 size 参数控制 -->
 <img
-  src="https://github.com/Geoffrey-png.png"
+  src="https://github.com/Geoffrey-png.png?size=400"
   width="140"
   height="140"
   alt="avatar"
-  style="border-radius: 50%; border: 4px solid #f75c7c; box-shadow: 0 6px 18px rgba(0,0,0,0.18);"
 />
 
 <!-- ③ 个人简介 -->
@@ -218,16 +217,8 @@
   <img src="https://img.shields.io/badge/GitHub-Geoffrey--png-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="mailto:1471437104@qq.com">
+<a href="mailto:wanggan1006@gmail.com">
   <img src="https://img.shields.io/badge/Email-wanggan1006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.codebuddy.cn" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-CodeBuddy-00B4AB?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Geoffrey%20Wang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
