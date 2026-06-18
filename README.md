@@ -246,6 +246,10 @@ hobbies: ["Coding", "Reading", "Basketball"]
 
 ---
 
+<!-- 🐍 贪吃蛇动画（首次需手动触发 Action 后取消注释）
+     触发方式：仓库 → Actions → Generate Snake → Run workflow
+     成功后删除本注释和下方 HTML 注释标记即可显示
+<!--
 ## 🐍 贪吃蛇吃掉我的贡献图 | Snake Animation
 
 <div align="center">
@@ -267,6 +271,8 @@ hobbies: ["Coding", "Reading", "Basketball"]
 </picture>
 
 </div>
+-->
+
 
 ---
 
