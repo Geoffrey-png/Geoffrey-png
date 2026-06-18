@@ -231,7 +231,7 @@ hobbies: ["Coding", "Reading", "Basketball"]
 </a>
 &nbsp;
 <a href="mailto:1471437104@qq.com">
-  <img src="https://img.shields.io/badge/Email-1471437104@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-wanggan1006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://www.codebuddy.cn" target="_blank">
