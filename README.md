@@ -42,15 +42,14 @@
 
 ## 🧑‍💻 关于我 | About Me
 
-```yaml
-name: "Geoffrey Wang"
-location: "Dalian, China"
-education: "Dalian Minzu University"
-role: "Graduate Student in AI · Full-stack Developer"
-fields: ["AI", "Computer Vision", "Recommendation System", "Full-stack Web"]
-currently_learning: ["LLM Applications", "MLOps", "RAG"]
-ask_me_about: ["Python", "FastAPI", "Vue3", "YOLOv11"]
-```
+> 一个正在用 AI 和代码解决实际问题的研究生。🚀
+
+- 🎓 **在读硕士（人工智能）** · 大连民族大学
+- 🌍 **坐标** · 中国大连
+- 💻 **角色** · AI 应用开发者 / 全栈开发爱好者
+- 🧠 **关注方向** · 计算机视觉、推荐系统、LLM 应用、全栈 Web
+- 📚 **正在学习** · LLM Applications · MLOps · RAG
+- 💬 **欢迎交流** · Python、FastAPI、Vue3、YOLOv11
 
 ---
 
