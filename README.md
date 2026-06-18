@@ -214,11 +214,11 @@
 <div align="center">
 
 <a href="https://github.com/Geoffrey-png" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Geoffrey--png-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Geoffrey--png-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
 <a href="mailto:wanggan1006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-wanggan1006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-wanggan1006@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
