@@ -134,15 +134,6 @@ ask_me_about: ["Python", "FastAPI", "Vue3", "YOLOv11"]
   alt="GitHub Streak"
 />
 
-<br/>
-<br/>
-
-<!-- 奖杯墙 -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Geoffrey-png&theme=onestar&no-frame=true&no-bg=true&column=7&row=1"
-  alt="GitHub Trophies"
-/>
-
 </div>
 
 ---
