@@ -44,14 +44,12 @@
 
 ```yaml
 name: "Geoffrey Wang"
-location: "Guangdong, China"
-education: "Guangdong University of Science and Technology"
-role: "Student · Full-stack Developer · AI Enthusiast"
+location: "Dalian, China"
+education: "Dalian Minzu University"
+role: "Graduate Student in AI · Full-stack Developer"
 fields: ["AI", "Computer Vision", "Recommendation System", "Full-stack Web"]
 currently_learning: ["LLM Applications", "MLOps", "RAG"]
 ask_me_about: ["Python", "FastAPI", "Vue3", "YOLOv11"]
-fun_fact: "我让 AI 自动帮我写日报，省下的时间用来做更多项目"
-hobbies: ["Coding", "Reading", "Basketball"]
 ```
 
 ---
